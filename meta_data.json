@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "media",
+        "2": "social network",
+        "3": "blog",
+        "4": "mobile"
+    },
+    "data_tracked": false,
+    "demo_page": "",
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nEmojioneArea is a small jQuery plugin that allows you to transform any html element into simple WYSIWYG editor with ability to use Emojione icons.\nThe end result is a secure text/plain in which the image icons will be replaced with their Unicode analogues.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/emoji-one-area-picker-plugin-for-bubble-1728515303540x733155098510048500\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1567209810566x938432821211803600/img_151507.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Emoji One Area Picker",
+    "plugin_instructions": "Add element to page. Add Id of Input you want to use the picker. Use Native Bubble single or multiline input. Work with autobinding of this element.\n\nFor converter, you put it on the page  and set the text you need to convert.This text is available in the converter element state."
+}
